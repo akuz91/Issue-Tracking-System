@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Registration</title>
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css">
+        <link href="style.css" rel="stylesheet" type="text/css">
+	</head>
+	<body>
+		<div class="login">
+			<h1>Register</h1>
+			<form action="register.php" method="post">
+				<label for="first_name">
+					<i class="fas fa-user"></i>
+				</label>
+				<input type="text" name="first_name" placeholder="First Name" id="first_name" required>
+                <label for="last_name">
+					<i class="fas fa-user"></i>
+				</label>
+				<input type="text" name="last_name" placeholder="Last Name" id="last_name" required>
+				<label for="username">
+					<i class="fas fa-user-circle"></i>
+				</label>
+				<input type="text" name="username" placeholder="Username" id="username" required>
+                <label for="password">
+					<i class="fas fa-lock"></i>
+				</label>
+				<input type="password" name="password" placeholder="Password" id="password" required>
+				<label for="displayname">
+					<i class="fas fa-user"></i>
+				</label>
+				<input type="text" name="displayname" placeholder="Display Name" id="displayname" required>
+				<label for="user_email">
+					<i class="fas fa-envelope"></i>
+				</label>
+				<input type="text" name="user_email" placeholder="E-mail" id="user_email" required>
+				<input type="submit" value="Register">
+			</form>
+		</div>
+	</body>
+</html>
