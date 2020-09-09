@@ -13,6 +13,6 @@ Using PHP and HTML, a web-based user interface was created by using a local web 
 
 A user can sign in and view all projects they are involved in as well as all issues associated with a specific project. Each project has its own dashboard showing all project leaders and team members on the project, as well as a dashboard for each issue showing current status and status history. Depending on user roles, users can create new projects and new project issues. They may also assign project issues to other team members or add team members to a specific project. Details relating to user roles can be found in the project pdf.
 
-A snapshot of the issues dashboard in the web application:
+A snapshot of an example of the issues dashboard:
 <img height="400" src="https://github.com/akuz91/Issue_Tracking_System/blob/master/issues_page.png" />
 
