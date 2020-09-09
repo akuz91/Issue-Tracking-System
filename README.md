@@ -8,8 +8,9 @@ The ER model for the issue tracker is as follows:
 <img height = "400" src="https://github.com/akuz91/Issue_Tracking_System/blob/master/ER_model.png" />
 
 Using PHP and HTML, a web-based user interface was created by using a local web server, database and browser. The program was connected to the backend database and used prepared statements to return results as a web page. The general layout of the web application is shown below.
+
 <img height="300" src="https://github.com/akuz91/Issue_Tracking_System/blob/master/web_app_layout.png" />
 
-A snapshot of the issues dashboard is shown below.
-<img src="https://github.com/akuz91/Issue_Tracking_System/blob/master/issues_page.png" />
+A snapshot of the issues dashboard in the web application:
+<img height="400" src="https://github.com/akuz91/Issue_Tracking_System/blob/master/issues_page.png" />
 
