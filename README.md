@@ -4,4 +4,5 @@ The project was completed for the Principles of Databases (CS-GY-6083) course at
 
 The first part of the project focused on developing and implementing a database system, and the second part focused on developing the web application.
 
-
+The ER model for the issue tracker is as follows:
+<img src="https://github.com/akuz91/Issue_Tracking_System/blob/master/ER_model.png" />
